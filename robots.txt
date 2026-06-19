@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mosashipsunrung.github.io/500-offcial-com/sitemap.xml
